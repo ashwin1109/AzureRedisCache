@@ -1,0 +1,10 @@
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\VBRedisCacheSample.exe.config
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\VBRedisCacheSample.exe
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\VBRedisCacheSample.pdb
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\Newtonsoft.Json.dll
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\StackExchange.Redis.dll
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\Newtonsoft.Json.xml
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\bin\Debug\StackExchange.Redis.xml
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\obj\Debug\VBRedisCacheSample.csprojResolveAssemblyReference.cache
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\obj\Debug\VBRedisCacheSample.exe
+D:\EDrive\20532A-ENU-Allfiles\VBRedisCacheSample\obj\Debug\VBRedisCacheSample.pdb
